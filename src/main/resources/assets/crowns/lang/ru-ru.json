@@ -1,0 +1,23 @@
+{
+  "block.crowns.heat_exchanger": "Теплообменник",
+  "block.crowns.steam_input": "Вход Пара",
+  "block.crowns.fuel_assembly": "Топливная Сборка",
+  "block.crowns.uranium_ore": "Урановая Руда",
+  "block.crowns.deepslate_uranium_ore": "Глубинносланцевая Урановая Руда",
+  "block.crowns.turbine_stage": "Ступень Турбины",
+
+  "item.crowns.uranium_ingot": "Слиток Урана",
+  "item.crowns.raw_uranium": "Сырой Уран",
+
+  "itemGroup.crowns.nuclear": "CROWNS",
+
+
+  "crowns.ponder.nuclear_reactor.header": "Ядерные Реакторы",
+  "crowns.ponder.nuclear_reactor.text_1": "закачивайте воду с одной стороны",
+  "crowns.ponder.nuclear_reactor.text_2": "сделайте колонну из теплообменников чтобы вода успела испарится",
+  "crowns.ponder.nuclear_reactor.text_3": "сделайте каркас из топливных сборок и воды или угольных блоков, чтобы началась ядерная реакция",
+  "crowns.ponder.nuclear_reactor.text_4": "жидкостные баки используются что бы обьединить потоки пара",
+  "crowns.ponder.turbine.header": "Турбины",
+  "crowns.ponder.turbine.text_1": "подавайте пар на входы для подачи пара",
+  "crowns.ponder.turbine.text_2": "если пар имеет достаточное качество (x > 0%) то турбины начнут вращатся"
+}
